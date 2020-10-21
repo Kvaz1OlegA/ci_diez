@@ -1,0 +1,21 @@
+E:\university\лабы\третий сем\second\obj\Debug\second.csprojAssemblyReference.cache
+E:\university\лабы\третий сем\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+E:\university\лабы\третий сем\second\bin\Debug\second.exe.config
+E:\university\лабы\третий сем\second\bin\Debug\second.exe
+E:\university\лабы\третий сем\second\bin\Debug\second.pdb
+E:\university\лабы\третий сем\second\obj\Debug\second.exe
+E:\university\лабы\третий сем\second\obj\Debug\second.pdb
+C:\Users\Fedjaz\Documents\diez\second\bin\Debug\second.exe.config
+C:\Users\Fedjaz\Documents\diez\second\bin\Debug\second.exe
+C:\Users\Fedjaz\Documents\diez\second\bin\Debug\second.pdb
+C:\Users\Fedjaz\Documents\diez\second\obj\Debug\second.csprojAssemblyReference.cache
+C:\Users\Fedjaz\Documents\diez\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+C:\Users\Fedjaz\Documents\diez\second\obj\Debug\second.exe
+C:\Users\Fedjaz\Documents\diez\second\obj\Debug\second.pdb
+C:\Documents\second\bin\Debug\second.exe.config
+C:\Documents\second\bin\Debug\second.exe
+C:\Documents\second\bin\Debug\second.pdb
+C:\Documents\second\obj\Debug\second.csprojAssemblyReference.cache
+C:\Documents\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+C:\Documents\second\obj\Debug\second.exe
+C:\Documents\second\obj\Debug\second.pdb
