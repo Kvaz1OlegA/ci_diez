@@ -1,0 +1,7 @@
+E:\Dirs\FileWatcher\bin\Debug\FileWatcher.exe.config
+E:\Dirs\FileWatcher\bin\Debug\FileWatcher.exe
+E:\Dirs\FileWatcher\bin\Debug\FileWatcher.pdb
+E:\Dirs\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+E:\Dirs\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+E:\Dirs\FileWatcher\obj\Debug\FileWatcher.exe
+E:\Dirs\FileWatcher\obj\Debug\FileWatcher.pdb

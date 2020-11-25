@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'E:\Dirs\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Dirs\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = E:\Dirs\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'E:\Dirs\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Dirs\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = E:\Dirs\FileWatcher\bin\Debug\FileWatcher.InstallLog
