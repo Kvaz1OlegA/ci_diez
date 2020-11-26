@@ -49,9 +49,9 @@
     <Compile Include="Archiver.cs" />
     <Compile Include="Coder.cs" />
     <Compile Include="Converter.cs" />
-    <Compile Include="ETLJsonOptions.cs" />
+    <Compile Include="JsonOptions.cs" />
     <Compile Include="ETLOptions.cs" />
-    <Compile Include="ETLXmlOptions.cs" />
+    <Compile Include="XmlOptions.cs" />
     <Compile Include="Installer1.cs">
       <SubType>Component</SubType>
     </Compile>

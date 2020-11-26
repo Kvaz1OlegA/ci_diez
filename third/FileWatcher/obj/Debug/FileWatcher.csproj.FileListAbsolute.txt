@@ -5,3 +5,10 @@ E:\Dirs\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
 E:\Dirs\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
 E:\Dirs\FileWatcher\obj\Debug\FileWatcher.exe
 E:\Dirs\FileWatcher\obj\Debug\FileWatcher.pdb
+E:\ci_diez\third\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+E:\ci_diez\third\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+E:\ci_diez\third\FileWatcher\obj\Debug\FileWatcher.exe
+E:\ci_diez\third\FileWatcher\obj\Debug\FileWatcher.pdb
+E:\ci_diez\third\FileWatcher\bin\Debug\FileWatcher.exe.config
+E:\ci_diez\third\FileWatcher\bin\Debug\FileWatcher.exe
+E:\ci_diez\third\FileWatcher\bin\Debug\FileWatcher.pdb

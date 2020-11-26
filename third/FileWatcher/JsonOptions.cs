@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace FileWatcher
 {
-    public class ETLXmlOptions : ETLOptions
+    public class JsonOptions : ETLOptions
     {
-        public ETLXmlOptions(string xml) : base()
+        public JsonOptions(string json) : base()
         {
-            ETLOptions options = Converter.DeserializeXML<ETLOptions>(xml);
+            ETLOptions options = Parser.DeserializeJson<ETLOptions>(json);
             SendingOptions = options.SendingOptions;
-        }
+        } 
     }
 }

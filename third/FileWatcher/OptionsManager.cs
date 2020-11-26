@@ -10,8 +10,8 @@ namespace FileWatcher
     class OptionsManager
     {
         ETLOptions DefaultOptions;
-        ETLJsonOptions Json;
-        ETLXmlOptions Xml;
+        JsonOptions Json;
+        XmlOptions Xml;
         bool jsonConfigured, xmlConfigured;
 
         public OptionsManager(string path)
@@ -24,7 +24,7 @@ namespace FileWatcher
                 {
                     options = sr.ReadToEnd();
                 }
-                Xml = new ETLXmlOptions(options);
+                Xml = new XmlOptions(options);
                 xmlConfigured = true;
             }
             catch
@@ -37,7 +37,7 @@ namespace FileWatcher
                 {
                     options = sr.ReadToEnd();
                 }
-                Json = new ETLJsonOptions(options);
+                Json = new JsonOptions(options);
                 jsonConfigured = true;
             }
             catch
@@ -48,7 +48,7 @@ namespace FileWatcher
             {
                 if(!File.Exists($"{path}\\appsettings.json"))
                 {
-                    string json = Converter.SerializeJson(DefaultOptions);
+                    string json = Parser.SerializeJson(DefaultOptions);
                     using(StreamWriter sw = new StreamWriter($"{path}\\appsettings.json"))
                     {
                         sw.Write(json);
@@ -56,7 +56,7 @@ namespace FileWatcher
                 }
                 if(!File.Exists($"{path}\\config.xml"))
                 {
-                    string xml = Converter.SerializeXML(DefaultOptions);
+                    string xml = Parser.SerializeXML(DefaultOptions);
                     using(StreamWriter sw = new StreamWriter($"{path}\\config.xml"))
                     {
                         sw.Write(xml);

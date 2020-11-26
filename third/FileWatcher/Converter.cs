@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 
 namespace FileWatcher
 {
-    public static class Converter
+    public static class Parser
     {
         public static T DeserializeJson<T>(string json)
         {
@@ -81,7 +81,7 @@ namespace FileWatcher
                 }
                 else if(parsedObject.Type == ParsedObject.ObjectType.ComplexObject)
                 {
-                    object parsed = typeof(Converter).GetMethod("Deserialize", BindingFlags.NonPublic | BindingFlags.Static)
+                    object parsed = typeof(Parser).GetMethod("Deserialize", BindingFlags.NonPublic | BindingFlags.Static)
                                                      .MakeGenericMethod(memberType)
                                                      .Invoke(null, new object[] { ParseJson(value) });
                     SetMemberValue(ans, key, parsed);
@@ -95,7 +95,7 @@ namespace FileWatcher
                     }
                     else
                     {
-                        object parsed = typeof(Converter).GetMethod("Deserialize", BindingFlags.NonPublic | BindingFlags.Static)
+                        object parsed = typeof(Parser).GetMethod("Deserialize", BindingFlags.NonPublic | BindingFlags.Static)
                                                      .MakeGenericMethod(memberType)
                                                      .Invoke(null, new object[] { ParseXML(value, false) });
                         SetMemberValue(ans, key, parsed);
@@ -277,7 +277,7 @@ namespace FileWatcher
             }
             foreach(string value1 in obj.ValueArray)
             {
-                list.Add(typeof(Converter).GetMethod(methodName)
+                list.Add(typeof(Parser).GetMethod(methodName)
                                           .MakeGenericMethod(new Type[] { type })
                                           .Invoke(null, new object[] { value1.Trim() }));
             }
