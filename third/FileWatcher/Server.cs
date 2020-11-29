@@ -12,7 +12,7 @@ namespace FileWatcher
     class Server
     {
         private FileSystemWatcher watcher;
-        private OptionsManager optionsManager;
+        SendingOptions sendingOptions;
         bool enabled = true;
 
         public Server()
@@ -37,10 +37,9 @@ namespace FileWatcher
 
         void Config()
         {
-            string directory = AppDomain.CurrentDomain.BaseDirectory;
-            optionsManager = new OptionsManager(directory);
-            ETLOptions options = optionsManager.GetOptions<ETLOptions>() as ETLOptions;
-            watcher = new FileSystemWatcher(options.SendingOptions.SourceDirectory, "*.txt");
+            sendingOptions = new SendingOptions();
+            sendingOptions = Manager.GetOptions();
+            watcher = new FileSystemWatcher(sendingOptions.SourceDirectory, "*.txt");
             watcher.NotifyFilter = NotifyFilters.LastAccess
                                 | NotifyFilters.LastWrite
                                 | NotifyFilters.FileName
@@ -51,7 +50,6 @@ namespace FileWatcher
         private void OnCreated(object sender, FileSystemEventArgs e)
         {
             WaitUntilFileIsReady(e.FullPath);
-            SendingOptions sendingOptions = optionsManager.GetOptions<SendingOptions>() as SendingOptions;
             string[] date = DateTime.Now.ToString().Split('.', ':', ' ');
             string subDir = Path.Combine(sendingOptions.ArchiveDirectory, date[2], date[1], date[0]);
             if (!Directory.Exists(subDir))

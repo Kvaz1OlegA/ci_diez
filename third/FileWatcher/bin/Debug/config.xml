@@ -1,7 +1,5 @@
-<ETLOptions>
-	<SendingOptions>
-		<SourceDirectory>E:\Dirs\SDir</SourceDirectory>
-		<TargetDirectory>E:\Dirs\TDir</TargetDirectory>
-		<ArchiveDirectory>E:\Dirs\TDir\archive</ArchiveDirectory>
-	</SendingOptions>
-</ETLOptions>
+<Options>
+	<SourceDirectory>E:\Dirs\SDir</SourceDirectory>
+	<TargetDirectory>E:\Dirs\TDir\zips</TargetDirectory>
+	<ArchiveDirectory>E:\Dirs\TDir\archive</ArchiveDirectory>
+</Options>

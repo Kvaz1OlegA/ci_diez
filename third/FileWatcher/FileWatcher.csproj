@@ -49,19 +49,14 @@
     <Compile Include="Archiver.cs" />
     <Compile Include="Coder.cs" />
     <Compile Include="Converter.cs" />
-    <Compile Include="JsonOptions.cs" />
-    <Compile Include="ETLOptions.cs" />
-    <Compile Include="XmlOptions.cs" />
     <Compile Include="Installer1.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Installer1.Designer.cs">
       <DependentUpon>Installer1.cs</DependentUpon>
     </Compile>
-    <Compile Include="JsonIgnore.cs" />
+    <Compile Include="Manager.cs" />
     <Compile Include="Options.cs" />
-    <Compile Include="OptionsManager.cs" />
-    <Compile Include="ParsedObject.cs" />
     <Compile Include="SendingOptions.cs" />
     <Compile Include="Server.cs" />
     <Compile Include="Service1.cs">
@@ -72,7 +67,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="XMLIgnore.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
