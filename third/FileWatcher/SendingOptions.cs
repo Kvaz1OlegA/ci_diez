@@ -6,15 +6,10 @@ using System.Threading.Tasks;
 
 namespace FileWatcher
 {
-    public class SendingOptions : Options
+    public class SendingOptions
     {
-        public string SourceDirectory { get; set; } = @"E:\Dirs\SDir";
-        public string TargetDirectory { get; set; } = @"E:\Dirs\TDir\zips";
-        public string ArchiveDirectory { get; set; } = @"E:\Dirs\TDir\archive";
-
-        public SendingOptions()
-        {
-
-        }
+        public string SourceDirectory = @"E:\Dirs\SDir";
+        public string TargetDirectory = @"E:\Dirs\TDir\zips";
+        public string ArchiveDirectory = @"E:\Dirs\TDir\archive";
     }
 }
