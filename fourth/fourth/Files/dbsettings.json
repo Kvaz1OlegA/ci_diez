@@ -1,0 +1,7 @@
+{
+	DataSource : .\SQLEXPRESS,
+	InitialCatalog : AdventureWorks2017,
+	IntegratedSecurity : True,
+	Directory : E:\Dirs\SDir\persons.xml,
+	File : E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\persons.xml
+}

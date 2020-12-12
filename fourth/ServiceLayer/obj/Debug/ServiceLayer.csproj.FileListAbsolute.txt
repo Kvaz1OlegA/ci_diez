@@ -1,0 +1,21 @@
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\bin\Debug\ServiceLayer.dll
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\bin\Debug\ServiceLayer.pdb
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\bin\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\bin\Debug\Models.dll
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\bin\Debug\Models.pdb
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.dll
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.pdb
+E:\university\progs\C#\третий сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\bin\Debug\ServiceLayer.dll
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\bin\Debug\ServiceLayer.pdb
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\bin\Debug\Models.dll
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\bin\Debug\Models.pdb
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.dll
+E:\university\progs\C#\третий_сем\fourth\ServiceLayer\obj\Debug\ServiceLayer.pdb

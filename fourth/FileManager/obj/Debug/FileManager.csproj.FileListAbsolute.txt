@@ -1,0 +1,22 @@
+E:\university\progs\C#\третий сем\fourth\FileManager\bin\Debug\FileManager.dll
+E:\university\progs\C#\третий сем\fourth\FileManager\bin\Debug\FileManager.pdb
+E:\university\progs\C#\третий сем\fourth\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий сем\fourth\FileManager\obj\Debug\FileManager.dll
+E:\university\progs\C#\третий сем\fourth\FileManager\obj\Debug\FileManager.pdb
+E:\university\progs\C#\третий сем\fourth\FileManager\bin\Debug\Models.dll
+E:\university\progs\C#\третий сем\fourth\FileManager\bin\Debug\ConfigurationManager.pdb
+E:\university\progs\C#\третий сем\fourth\FileManager\bin\Debug\Models.pdb
+E:\university\progs\C#\третий сем\fourth\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+E:\university\progs\C#\третий сем\fourth\FileManager\bin\Debug\ConfigurationManager.dll
+E:\university\progs\C#\третий сем\fourth\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\university\progs\C#\третий_сем\fourth\FileManager\bin\Debug\FileManager.dll
+E:\university\progs\C#\третий_сем\fourth\FileManager\bin\Debug\FileManager.pdb
+E:\university\progs\C#\третий_сем\fourth\FileManager\bin\Debug\Models.dll
+E:\university\progs\C#\третий_сем\fourth\FileManager\bin\Debug\ConfigurationManager.pdb
+E:\university\progs\C#\третий_сем\fourth\FileManager\bin\Debug\Models.pdb
+E:\university\progs\C#\третий_сем\fourth\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\university\progs\C#\третий_сем\fourth\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий_сем\fourth\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+E:\university\progs\C#\третий_сем\fourth\FileManager\obj\Debug\FileManager.dll
+E:\university\progs\C#\третий_сем\fourth\FileManager\obj\Debug\FileManager.pdb
+E:\university\progs\C#\третий_сем\fourth\FileManager\bin\Debug\ConfigurationManager.dll

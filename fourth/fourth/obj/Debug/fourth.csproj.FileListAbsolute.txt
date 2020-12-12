@@ -1,0 +1,38 @@
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\fourth.exe.config
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\fourth.exe
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\fourth.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\obj\Debug\fourth.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий сем\fourth\fourth\obj\Debug\fourth.exe
+E:\university\progs\C#\третий сем\fourth\fourth\obj\Debug\fourth.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\Models.dll
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\Models.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\obj\Debug\fourth.csproj.CopyComplete
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\ServiceLayer.dll
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\ServiceLayer.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\DataManager.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\DataManager.dll
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\ConfigurationManager.dll
+E:\university\progs\C#\третий сем\fourth\fourth\bin\Debug\ConfigurationManager.pdb
+E:\university\progs\C#\третий сем\fourth\fourth\obj\Debug\fourth.csprojAssemblyReference.cache
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\fourth.exe.config
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\fourth.exe
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\fourth.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\DataManager.dll
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\Models.dll
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\ConfigurationManager.dll
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\ServiceLayer.dll
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\DataManager.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\Models.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\ConfigurationManager.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\ServiceLayer.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\obj\Debug\fourth.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий_сем\fourth\fourth\obj\Debug\fourth.csproj.CopyComplete
+E:\university\progs\C#\третий_сем\fourth\fourth\obj\Debug\fourth.exe
+E:\university\progs\C#\третий_сем\fourth\fourth\obj\Debug\fourth.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\FileManager.dll
+E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\FileManager.pdb
+E:\university\progs\C#\третий_сем\fourth\fourth\obj\Debug\fourth.csprojAssemblyReference.cache

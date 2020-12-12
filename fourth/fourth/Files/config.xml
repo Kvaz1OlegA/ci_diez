@@ -1,0 +1,5 @@
+<Options>
+	<SourceDirectory>E:\Dirs\SDir</SourceDirectory>
+	<TargetDirectory>E:\Dirs\TDir\zips</TargetDirectory>
+	<ArchiveDirectory>E:\Dirs\TDir\archive</ArchiveDirectory>
+</Options>

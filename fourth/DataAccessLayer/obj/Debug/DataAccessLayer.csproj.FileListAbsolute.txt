@@ -1,0 +1,17 @@
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\bin\Debug\Models.dll
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\bin\Debug\Models.pdb
+E:\university\progs\C#\третий сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\bin\Debug\Models.dll
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\bin\Debug\Models.pdb
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\university\progs\C#\третий_сем\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache

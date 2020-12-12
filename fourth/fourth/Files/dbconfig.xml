@@ -1,0 +1,7 @@
+<DBOptions>
+	<DataSource>.\SQLEXPRESS</DataSource>
+	<InitialCatalog>AdventureWorks2017</InitialCatalog>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<Directory>E:\Dirs\SDir\persons.xml</Directory>
+	<File>E:\university\progs\C#\третий_сем\fourth\fourth\bin\Debug\persons.xml</File>
+</DBOptions>
